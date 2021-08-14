@@ -1,6 +1,6 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am <a href="https://ruthvikv.com">Ruthvik Vegunta</a>, a Cybersecurity Grad Student at University of North Carolina at Charlotte.
+I am <a href="https://ruthvikv.com" target="_blank">Ruthvik Vegunta</a>, a Cybersecurity Grad Student at University of North Carolina at Charlotte.
 
   
 
@@ -27,13 +27,13 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Find me around the web :globe_with_meridians:
 
-<a href="https://www.linkedin.com/in/ruthvik-vegunta">
+<a href="https://www.linkedin.com/in/ruthvik-vegunta" target="_blank">
 
 <img align="left" alt="Ruthvik's LinkdeIN" width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
 
 </a>
 
-<a href="https://twitter.com/ruthvikvegunta">
+<a href="https://twitter.com/ruthvikvegunta" target="_blank">
 
 <img align="left" alt="Ruthvik's Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_6-twitter-512.png" />
 
@@ -41,7 +41,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
   
 
-<a href="https://www.instagram.com/ruthvik.v/">
+<a href="https://www.instagram.com/ruthvik.v/" target="_blank">
 
 <img align="left" alt="Ruthvik's Instagram" width="40px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />
 
