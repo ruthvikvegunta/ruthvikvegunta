@@ -1,6 +1,6 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am <a href="https://ruthvikv.coom">Ruthvik Vegunta</a>, a Cybersecurity Grad Student at University of North Carolina at Charlotte.
+I am <a href="https://ruthvikv.com">Ruthvik Vegunta</a>, a Cybersecurity Grad Student at University of North Carolina at Charlotte.
 
   
 
