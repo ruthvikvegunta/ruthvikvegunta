@@ -4,7 +4,7 @@ I am <a href="https://ruthvikv.com" target="_blank">Ruthvik Vegunta</a>, a Cyber
 
   
 
-I am a Music Lover 🎵 , Hacker 💻 & Coffee Lover ☕.
+I am a Hacker 💻,  Music 🎵 & Coffee ☕ Lover.
 
   
 
