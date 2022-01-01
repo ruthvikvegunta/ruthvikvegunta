@@ -8,7 +8,7 @@ I am a Hacker 💻,  Music 🎵 & Coffee ☕ Lover.
 
   
 
-🔭 I’m currently working on OSWE Certification
+🔭 I’m currently working on OSEP Certification
   
 
 💼 I'm looking for `Security Analyst`/`Red Team Engineer`/`Penetration Tester` opportunities starting May 2022.
