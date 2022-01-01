@@ -76,15 +76,16 @@ If you like what I do, maybe consider buying me a coffee/tea
 🚧 **My Cyber todoist:**
 
 <!-- TODO-IST:START -->
-✅ OSWE In Progress
 
-✅ Completed OSCP
+✅ OSWE Certified
 
-✅ Completed CRTP
+✅ OSCP Certified
 
-✅ Completed CEH
+✅ CRTP Certified
 
-✅ Completed eJPT
+✅ eJPT Certified
+
+✅ CEH Certified
 
 <!-- TODO-IST:END -->
 
